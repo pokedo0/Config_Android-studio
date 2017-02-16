@@ -2,6 +2,18 @@
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="CONSOLE_FONT_NAME" value="YaHei Consolas Hybrid" />
-  <option name="CONSOLE_FONT_SIZE" value="23" />
+  <option name="CONSOLE_FONT_SIZE" value="19" />
   <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
+  <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="8605" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="8605" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
